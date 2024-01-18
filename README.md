@@ -1,6 +1,6 @@
 # pandas-challenge
 
-## PyCitySchools
+## PyCity Schools
 
 Author James Montgomery University of Oregon Bootcamp
 
